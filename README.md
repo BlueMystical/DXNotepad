@@ -1,5 +1,5 @@
 # DXNotepad
-A Modern and Good looking replacement for Windows Notedpad.
+A Modern and Good looking replacement for Windows Notepad.
 
 <a href="https://ibb.co/PDvvJsX"><img src="https://i.ibb.co/Y0FFJ4n/DXNotepad-Preview.png" alt="DXNotepad-Preview" border="0"></a>
 
