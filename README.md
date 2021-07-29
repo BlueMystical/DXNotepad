@@ -6,3 +6,6 @@ A Modern and Good looking replacement for Widows Notedpad.
 * Available in 6 Languages: English, Spanish, Portugesse, French, Deutch, Russian.
 * Simple Text Editor, no complex features.
 * Skinnable.
+
+Known Issues:
+* Line Counts sometimes miss-align.
